@@ -1,52 +1,24 @@
 # Project Name
-> Outline a brief description of your project.
-
+Skin-cancer-Melanoma-Detection-using-Convolutional-neural-network
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
+* General Info
+* Technologies Used
+* Conclusions
+* 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This is a image classification project.
+- we build a convolutional neural network model.
+- which classifies the images of different kinds of skin cancers to automate the task of an oncologist.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- This is most likely a learning project which helps to grasp the concept of CNN and how to deal with various problems while building the model for image classification.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Here i learned how to improve model performance using dropout layers and class balancing techniques where we can augment the dataset .
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Tenserflow - 2.11.0
+ - Keras - 2.12.0
+ - Augmentor-0.2.12
+ - Numpy - 1.22.4
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
