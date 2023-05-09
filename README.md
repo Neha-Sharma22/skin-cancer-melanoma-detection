@@ -5,7 +5,7 @@ Skin-cancer-Melanoma-Detection-using-Convolutional-neural-network
 * General Info
 * Technologies Used
 * Conclusions
-* 
+ 
 ## General Information
 - This is a image classification project.
 - we build a convolutional neural network model.
